@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**daniellucasdev/daniellucasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você deixou ela de lado para falar com seus amigos
+Sobre as suas coisas chatas
+Ela deu brecha e eu me aproximei
+Porque eu me fortaleço é na sua falha
+Ela estava ali sozinha querendo atenção
+E alguém pra conversar
+Você deixou ela de lado, vai pagar pela mancada
+Pode acreditar
+Então já era
+Eu vou fazer de um jeito que ela não vai esquecer
+Então já era
+Eu vou fazer de um jeito que ela não vai esquecer
