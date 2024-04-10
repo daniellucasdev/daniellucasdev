@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://rastrian.dev" style="text-decoration: none; color: inherit;">
-    <img src="https://i.imgur.com/rZGirqn.png?w=640" width="20%" alt="Rastrian's Logo" /><br>
-    <b>Hi, I'm Daniel 🤘​</b>
+    <img src="https://static.wikia.nocookie.net/hotline-miami/images/d/dc/Untitled-2.png/revision/latest?cb=20150320222759" width="20%" alt="Rastrian's Logo" /><br>
+    <b>Wassup, Dan here 🤘​</b>
   </a>
 </p>
 
-<details>
+<details open="true">
   <summary> <b> 🤔 About me </b> <i>(Click here)</i> </summary>
   <br>
   <ul>
