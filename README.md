@@ -12,6 +12,6 @@
     <li>🌍 Tenho 22 anos de idade, brasileiro nato.</li>
     <li>🎓 Sou Engenheiro Eletricista, prestes á iniciar pós graduação em Engenharia de Software.</li>
     <li>🛠️ Falo fluentemente português e inglês, entendo e falo um pouco de espanhol e alemão.</li>
-    <li>🎼 Sou metaleiro, tenho uma guitarra e curto NuMetal.</li>
+    <li>🎼 Metaleiro, tenho quase dois metros, sou bombado e não durmo pois é cringe.</li>
   </ul>
 </details>
