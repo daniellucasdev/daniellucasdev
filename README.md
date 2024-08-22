@@ -12,6 +12,7 @@
     <li>🌍 Tenho 22 anos de idade, brasileiro nato.</li>
     <li>🎓 Sou Engenheiro Eletricista, prestes á iniciar pós graduação em Engenharia de Software.</li>
     <li>🛠️ Falo fluentemente português e inglês, entendo e falo um pouco de espanhol e alemão.</li>
-    <li>🎼 Metaleiro, tenho quase dois metros, sou bombado e não durmo pois é cringe.</li>
+    <li>🎼 Metaleiro, tenho quase dois metros e sou bombado.</li>
+    <li>🛸 Bla bla bla me esforço cada dia mais bla bla bla gosto de aprender.</li>
   </ul>
 </details>
