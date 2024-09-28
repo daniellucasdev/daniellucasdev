@@ -6,7 +6,7 @@
 </p>
 
 <details open="true">
-  <summary> <b> 🤔 Pega a visão </b> <i>(Clica aqui)</i> </summary>
+  <summary> <b> 🤔 Clica aqui </summary>
   <br>
   <ul>
     <li>🌍 Tenho 23 anos de idade, brasileiro nato.</li>
