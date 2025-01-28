@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://daniellucas.dev" style="text-decoration: none; color: inherit;">
-    <img src="[https://static.wikia.nocookie.net/hotline-miami/images/d/dc/Untitled-2.png/revision/latest?cb=20150320222759](https://i.redd.it/tbq0jonlabkb1.gif)" width="20%" alt="Tony" /><br>
+    <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ftbq0jonlabkb1.gif" width="20%" alt="Tony" /><br>
     <b>Coé, Dan aqui 🤘​</b>
   </a>
 </p>
