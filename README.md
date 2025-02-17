@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://daniellucas.dev" style="text-decoration: none; color: inherit;">
-    <img src="https://i.gifer.com/origin/18/18a8a2ecb99839704d703e80c32aadfe_w200.gif" width="20%" alt="Sup" /><br>
+    <img src="https://i.gifer.com/origin/18/18a8a2ecb99839704d703e80c32aadfe_w200.gif" alt="Sup" /><br>
     <b> Bão? Aqui é o Dan​</b>
   </a>
 </p>
