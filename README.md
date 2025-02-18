@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://daniellucas.dev" style="text-decoration: none; color: inherit;">
-    <img src="https://static.wikia.nocookie.net/fallout/images/c/ca/Fo4_Intelligence.png/revision/latest/scale-to-width/360?cb=20151205213756" alt="Sup" /><br>
+    <img src="https://static.wikia.nocookie.net/fallout/images/c/ca/Fo4_Intelligence.png/revision/latest/scale-to-width/360?cb=20151205213756" alt="Sup" /><br/><br/>
     <b> Fala comigo! </b>
   </a>
 </p>
 
-<b> Sou o Dan, e curto fazer uns softwares variados por aí. </b>
+<b> Sou o Dan, e curto fazer uns trem  por aí. </b>
 <details open="true">
 
   <summary> <b> Se liga aqui! </summary>
