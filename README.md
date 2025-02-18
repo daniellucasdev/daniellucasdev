@@ -5,8 +5,9 @@
   </a>
 </p>
 
+<b> Sou o Dan, e curto fazer uns softwares variados por aí. </b>
 <details open="true">
-    <b> Sou o Dan, e curto fazer uns softwares duvidosos. </b>
+
   <summary> <b> Se liga aqui! </summary>
   <br>
   <ul>
