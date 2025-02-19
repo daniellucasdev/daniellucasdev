@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<b> Sou o Dan, gosto de espaçar meu código e de fazer softwares criativos. </b>
+<b> Sou o Dan e gosto de fazer softwares criativos. </b>
 <details open="true">
 
   <summary> <b> Se liga aqui! </summary>
