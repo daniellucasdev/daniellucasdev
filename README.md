@@ -5,15 +5,27 @@
   </a>
 </p>
 
-<b> Sou o Dan e gosto de fazer softwares criativos. </b>
-<details open="true">
+<b> Sou o Dan, e faço softwares criativos. </b>
+Tenho 23 anos de idade, engenheiro de computação, fluente em Português e inglês, mas desembolo no alemão.
+Meu maior sonho é ser o cara mais inteligente que eu conheço, por isso eu estudo todo o santo dia.
 
-  <summary> <b> Se liga aqui! </summary>
+<details open="false">
+  <summary> <b> Curto: </summary>
   <br>
   <ul>
-    <li> Tenho 23 anos de idade, brasileiro.</li>
-    <li> Sou Engenheiro Eletricista, prestes á iniciar pós graduação em Engenharia de Software.</li>
-    <li> Falo fluentemente português e inglês, entendo e falo um pouco de espanhol e alemão.</li>
-    <li> Amo conhecimento em geral, pretendo me tornar a versão mais inteligente de mim mesmo e um dia conquistar o PHD.</li>
+    <li> Designs e projetos alternativos, fora da curva;</li>
+    <li> Estudar sobre comunicação e sobre a natureza humana;</li>
+    <li> Competir em qualquer coisa;</li>
+    <li> Macacos.</li>
+  </ul>
+</details>
+<details open="false">
+  <summary> <b> Odeio: </summary>
+  <br>
+  <ul>
+    <li> Designs feios;</li>
+    <li> Linux;</li>
+    <li> Burrice;</li>
+    <li> Quem não gosta de macacos.</li>
   </ul>
 </details>
