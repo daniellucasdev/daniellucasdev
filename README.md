@@ -19,13 +19,3 @@ Meu maior sonho é ser o cara mais inteligente que eu conheço, por isso eu estu
     <li> Macacos.</li>
   </ul>
 </details>
-<details open="false">
-  <summary> <b> Odeio: </summary>
-  <br>
-  <ul>
-    <li> Designs feios;</li>
-    <li> Linux;</li>
-    <li> Burrice;</li>
-    <li> Quem não gosta de macacos.</li>
-  </ul>
-</details>
