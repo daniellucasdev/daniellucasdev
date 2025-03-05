@@ -16,6 +16,5 @@ Meu maior sonho é ser o cara mais inteligente que eu conheço, por isso eu estu
     <li> Designs e projetos alternativos, fora da curva;</li>
     <li> Estudar sobre comunicação e sobre a natureza humana;</li>
     <li> Competir em qualquer coisa;</li>
-    <li> Macacos.</li>
   </ul>
 </details>
