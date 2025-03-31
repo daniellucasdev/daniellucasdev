@@ -6,7 +6,7 @@
 </p>
 
 <b> Sou o Dan, e faço softwares criativos. </b>
-Tenho 23 anos de idade, engenheiro de computação, fluente em Português e inglês, mas desembolo no alemão.
+Tenho 23 anos de idade, engenheiro de computação, fluente em Português e inglês, e desembolo no alemão.
 Meu maior sonho é ser o cara mais inteligente que eu conheço, por isso eu estudo todo o santo dia.
 
 <details open="false">
