@@ -6,17 +6,17 @@
 </p>
 
 <b> Sou o Dan, e faço softwares criativos. </b>
-Tenho 23 anos de idade, engenheiro de computação, fluente em Português e inglês, e desembolo no alemão.
+Tenho 23 anos de idade, engenheiro de computação, fluente em português e inglês, desembolo no alemão e estou aprendendo chinês.
 Meu maior sonho é ser o cara mais inteligente que eu conheço, por isso eu estudo todo o santo dia.
 
 <details open="false">
   <summary> <b> Curto: </summary>
   <br>
   <ul>
-    <li> Designs e projetos alternativos, fora da curva;</li>
+    <li> Designs e projetos alternativos fora da curva;</li>
     <li> Estudar sobre comunicação e sobre a natureza humana;</li>
-    <li> Tocar guitarra e curtir um punk rock Ⓐ;</li>
-    <li> Ler poesia e refletir sobre obras de arte;</li>
-    <li> Competir em qualquer coisa;</li>
+    <li> Tocar guitarra curtindo punk rock e nu-metal;</li>
+    <li> Ler poesia e refletir sobre obras;</li>
+    <li> COMPETIR!</li>
   </ul>
 </details>
